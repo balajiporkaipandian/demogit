@@ -1,9 +1,7 @@
 # demogit
-
-this is in master
-
-this is a test run
-
-
-
-added a line for testiing
+ echo "disk usage details"
+ du
+ echo "free memory"
+ df
+ echo "system uptime"
+ uptime
